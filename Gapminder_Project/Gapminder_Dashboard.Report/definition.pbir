@@ -2,7 +2,7 @@
   "version": "1.0",
   "datasetReference": {
     "byPath": {
-      "path": "../Gapminder_Dashboard.Dataset"
+      "path": "../Gapminder_Dashboard.SemanticModel"
     }
   }
 }
