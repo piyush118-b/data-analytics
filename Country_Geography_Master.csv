@@ -1,0 +1,26 @@
+CountryCode,CountryName,Region,SubRegion,IncomeTier,UNMember
+UNI,United States,Americas,Northern America,High Income,Yes
+CHI,China,Asia,Eastern Asia,Lower Middle Income,Yes
+IND,India,Asia,Southern Asia,Upper Middle Income,Yes
+JAP,Japan,Asia,Eastern Asia,High Income,Yes
+GER,Germany,Europe,Western Europe,High Income,Yes
+UNI,United Kingdom,Europe,Northern Europe,High Income,Yes
+BRA,Brazil,Americas,South America,Upper Middle Income,Yes
+NIG,Nigeria,Africa,Western Africa,Lower Middle Income,Yes
+SOU,South Africa,Africa,Southern Africa,Lower Middle Income,Yes
+AUS,Australia,Oceania,Australia and New Zealand,High Income,Yes
+CAN,Canada,Americas,Northern America,Upper Middle Income,Yes
+FRA,France,Europe,Western Europe,Upper Middle Income,Yes
+ITA,Italy,Europe,Southern Europe,High Income,Yes
+SOU,South Korea,Asia,Eastern Asia,High Income,Yes
+IND,Indonesia,Asia,South-Eastern Asia,Lower Middle Income,Yes
+MEX,Mexico,Americas,Central America,Upper Middle Income,Yes
+EGY,Egypt,Africa,Northern Africa,Lower Middle Income,Yes
+KEN,Kenya,Africa,Eastern Africa,Low Income,Yes
+ARG,Argentina,Americas,South America,Upper Middle Income,Yes
+SWE,Sweden,Europe,Northern Europe,Upper Middle Income,Yes
+RUS,Russia,Europe,Eastern Europe,High Income,Yes
+SAU,Saudi Arabia,Asia,Western Asia,High Income,Yes
+TUR,Turkey,Asia,Western Asia,Upper Middle Income,Yes
+VIE,Vietnam,Asia,South-Eastern Asia,Upper Middle Income,Yes
+PAK,Pakistan,Asia,Southern Asia,High Income,Yes

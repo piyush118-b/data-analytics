@@ -1,0 +1,376 @@
+Country,Year,Region,SubRegion,LifeExpectancy,GDPperCapita,TotalPopulation,InfantMortalityRate
+United States,1950,Americas,Northern America,68.22,14500.0,157800000,28.1
+United States,1955,Americas,Northern America,69.52,17699.88,204806173,27.7
+United States,1960,Americas,Northern America,69.74,21828.99,242854307,26.7
+United States,1965,Americas,Northern America,71.5,27238.49,306942769,22.5
+United States,1970,Americas,Northern America,72.37,30770.55,323555684,20.4
+United States,1975,Americas,Northern America,73.76,30117.88,403014315,18.4
+United States,1980,Americas,Northern America,74.3,31946.29,434501485,16.4
+United States,1985,Americas,Northern America,76.74,41151.92,387477004,15.7
+United States,1990,Americas,Northern America,76.53,53908.3,518943510,13.3
+United States,1995,Americas,Northern America,78.05,42203.78,415241019,11.9
+United States,2000,Americas,Northern America,78.89,64870.14,422940235,9.7
+United States,2005,Americas,Northern America,80.5,66600.23,488730087,7.8
+United States,2010,Americas,Northern America,82.45,62694.03,678311668,7.4
+United States,2015,Americas,Northern America,83.34,79598.26,768389753,3.9
+United States,2020,Americas,Northern America,84.26,75995.57,492985563,3.0
+China,1950,Asia,Eastern Asia,43.96,600.0,543800000,120.1
+China,1955,Asia,Eastern Asia,46.77,939.27,695864035,112.7
+China,1960,Asia,Eastern Asia,49.76,1492.7,890566854,104.2
+China,1965,Asia,Eastern Asia,52.16,2067.44,1008322202,95.5
+China,1970,Asia,Eastern Asia,56.03,1958.42,848256847,88.4
+China,1975,Asia,Eastern Asia,58.46,2343.61,914591337,82.0
+China,1980,Asia,Eastern Asia,61.38,2825.06,1527513591,72.4
+China,1985,Asia,Eastern Asia,63.54,2573.73,1515078106,63.7
+China,1990,Asia,Eastern Asia,66.44,2477.84,1797857249,56.6
+China,1995,Asia,Eastern Asia,69.64,1998.3,2107382046,50.7
+China,2000,Asia,Eastern Asia,72.04,4835.85,1594857959,41.2
+China,2005,Asia,Eastern Asia,74.98,2256.41,1489823100,32.1
+China,2010,Asia,Eastern Asia,78.49,6362.68,1971250768,25.4
+China,2015,Asia,Eastern Asia,80.49,5471.7,1651508514,18.7
+China,2020,Asia,Eastern Asia,84.46,4043.26,2600221303,10.2
+India,1950,Asia,Southern Asia,35.46,620.0,376300000,148.8
+India,1955,Asia,Southern Asia,38.69,793.61,438220013,140.1
+India,1960,Asia,Southern Asia,42.31,1543.83,607101282,129.5
+India,1965,Asia,Southern Asia,46.56,1781.42,678136784,120.3
+India,1970,Asia,Southern Asia,49.95,2446.76,786021740,111.5
+India,1975,Asia,Southern Asia,53.09,2804.28,731449599,99.9
+India,1980,Asia,Southern Asia,55.65,2107.7,798220984,89.8
+India,1985,Asia,Southern Asia,59.23,3852.27,931755080,79.6
+India,1990,Asia,Southern Asia,63.32,4086.19,794940194,72.3
+India,1995,Asia,Southern Asia,65.91,4123.84,822520355,62.7
+India,2000,Asia,Southern Asia,70.62,4467.94,1550158788,52.6
+India,2005,Asia,Southern Asia,72.98,3025.0,1160876225,42.0
+India,2010,Asia,Southern Asia,77.74,3608.37,1559275744,31.9
+India,2015,Asia,Southern Asia,79.75,3696.51,1911415184,21.5
+India,2020,Asia,Southern Asia,84.19,5484.71,1914895410,11.4
+Japan,1950,Asia,Eastern Asia,61.5,3200.0,83800000,59.1
+Japan,1955,Asia,Eastern Asia,61.94,5094.96,97603489,55.4
+Japan,1960,Asia,Eastern Asia,64.0,5965.65,135434182,51.5
+Japan,1965,Asia,Eastern Asia,66.46,11124.36,141824433,46.9
+Japan,1970,Asia,Eastern Asia,66.78,13194.93,180893351,45.4
+Japan,1975,Asia,Eastern Asia,68.56,11040.4,216516426,41.8
+Japan,1980,Asia,Eastern Asia,70.86,17690.04,221168323,37.0
+Japan,1985,Asia,Eastern Asia,72.52,12381.83,263857607,33.0
+Japan,1990,Asia,Eastern Asia,73.36,10275.1,229890165,27.9
+Japan,1995,Asia,Eastern Asia,76.24,21088.22,224555776,25.5
+Japan,2000,Asia,Eastern Asia,77.67,12237.87,280733098,20.8
+Japan,2005,Asia,Eastern Asia,78.68,16080.16,301634799,16.9
+Japan,2010,Asia,Eastern Asia,80.39,16276.63,323868910,14.0
+Japan,2015,Asia,Eastern Asia,82.42,26452.0,327287171,8.2
+Japan,2020,Asia,Eastern Asia,83.55,38408.2,393919109,5.1
+Germany,1950,Europe,Western Europe,67.35,9800.0,69800000,48.5
+Germany,1955,Europe,Western Europe,68.77,12891.55,86116432,44.0
+Germany,1960,Europe,Western Europe,70.16,13917.93,111793764,41.1
+Germany,1965,Europe,Western Europe,71.47,16213.25,104713823,39.9
+Germany,1970,Europe,Western Europe,71.48,23621.48,110955014,36.0
+Germany,1975,Europe,Western Europe,73.19,23213.17,124013691,32.2
+Germany,1980,Europe,Western Europe,74.2,20304.33,134557390,30.3
+Germany,1985,Europe,Western Europe,75.95,22436.66,170209609,24.5
+Germany,1990,Europe,Western Europe,76.79,35626.79,143416677,22.0
+Germany,1995,Europe,Western Europe,77.7,26005.73,160660190,20.4
+Germany,2000,Europe,Western Europe,79.63,41836.7,182544094,17.4
+Germany,2005,Europe,Western Europe,80.41,38943.84,246048762,14.3
+Germany,2010,Europe,Western Europe,82.01,37303.37,254410452,10.7
+Germany,2015,Europe,Western Europe,82.2,51244.38,242874971,7.6
+Germany,2020,Europe,Western Europe,83.98,36010.31,320981678,4.7
+United Kingdom,1950,Europe,Northern Europe,69.33,11200.0,50600000,32.4
+United Kingdom,1955,Europe,Northern Europe,71.0,14937.38,61839291,28.9
+United Kingdom,1960,Europe,Northern Europe,71.17,16337.19,67911095,27.4
+United Kingdom,1965,Europe,Northern Europe,72.28,21516.19,77348605,26.5
+United Kingdom,1970,Europe,Northern Europe,73.61,26244.46,96912028,24.1
+United Kingdom,1975,Europe,Northern Europe,74.12,24945.59,124371912,22.1
+United Kingdom,1980,Europe,Northern Europe,75.81,24507.97,146438877,18.6
+United Kingdom,1985,Europe,Northern Europe,76.06,30713.54,157035695,16.6
+United Kingdom,1990,Europe,Northern Europe,78.04,31504.72,149074173,15.5
+United Kingdom,1995,Europe,Northern Europe,78.07,46977.07,183965452,11.4
+United Kingdom,2000,Europe,Northern Europe,79.73,33604.74,172701346,11.7
+United Kingdom,2005,Europe,Northern Europe,81.12,46093.61,131507355,8.9
+United Kingdom,2010,Europe,Northern Europe,81.51,49302.73,174612876,7.3
+United Kingdom,2015,Europe,Northern Europe,82.41,54245.48,173161338,4.5
+United Kingdom,2020,Europe,Northern Europe,83.67,42558.43,265846720,3.0
+Brazil,1950,Americas,South America,51.4,2100.0,53900000,134.8
+Brazil,1955,Americas,South America,52.43,2730.89,67986479,124.0
+Brazil,1960,Americas,South America,55.5,2954.35,88367033,116.7
+Brazil,1965,Americas,South America,57.64,3898.17,100710200,106.8
+Brazil,1970,Americas,South America,59.59,4462.16,88339127,99.2
+Brazil,1975,Americas,South America,63.08,5670.39,128084322,90.9
+Brazil,1980,Americas,South America,65.01,5464.81,115570381,82.4
+Brazil,1985,Americas,South America,67.31,5343.5,108093049,71.9
+Brazil,1990,Americas,South America,69.53,5587.52,131433613,64.4
+Brazil,1995,Americas,South America,72.37,7550.16,200362373,53.5
+Brazil,2000,Americas,South America,74.54,7328.34,158618018,44.5
+Brazil,2005,Americas,South America,77.39,6289.87,179365682,36.3
+Brazil,2010,Americas,South America,79.96,7003.82,175038088,28.1
+Brazil,2015,Americas,South America,81.58,10002.87,247750550,20.2
+Brazil,2020,Americas,South America,83.53,7980.69,270706973,9.7
+Nigeria,1950,Africa,Western Africa,36.57,850.0,37900000,190.3
+Nigeria,1955,Africa,Western Africa,39.43,1076.57,47210708,178.0
+Nigeria,1960,Africa,Western Africa,43.54,1404.34,55007192,165.8
+Nigeria,1965,Africa,Western Africa,46.73,1530.85,73848071,153.2
+Nigeria,1970,Africa,Western Africa,49.58,2037.69,82593777,140.4
+Nigeria,1975,Africa,Western Africa,53.15,2096.14,76671814,126.9
+Nigeria,1980,Africa,Western Africa,57.46,1917.69,93385128,116.5
+Nigeria,1985,Africa,Western Africa,60.32,1935.86,87592624,103.6
+Nigeria,1990,Africa,Western Africa,63.81,2338.28,86607325,90.1
+Nigeria,1995,Africa,Western Africa,67.64,3261.07,145995870,78.8
+Nigeria,2000,Africa,Western Africa,70.3,2463.94,111678129,64.6
+Nigeria,2005,Africa,Western Africa,74.55,3382.89,110751734,51.4
+Nigeria,2010,Africa,Western Africa,76.67,2706.34,122428054,39.2
+Nigeria,2015,Africa,Western Africa,80.79,3800.69,122505754,27.4
+Nigeria,2020,Africa,Western Africa,83.21,3967.61,172399087,15.9
+South Africa,1950,Africa,Southern Africa,44.63,3100.0,13700000,104.1
+South Africa,1955,Africa,Southern Africa,47.04,4012.24,17631633,98.2
+South Africa,1960,Africa,Southern Africa,49.68,4890.7,19966307,91.4
+South Africa,1965,Africa,Southern Africa,53.81,6364.96,24935712,83.7
+South Africa,1970,Africa,Southern Africa,56.55,6282.67,27936788,77.8
+South Africa,1975,Africa,Southern Africa,59.28,7630.01,30241627,69.1
+South Africa,1980,Africa,Southern Africa,62.12,7095.0,38232261,63.6
+South Africa,1985,Africa,Southern Africa,63.63,9530.06,26359672,55.9
+South Africa,1990,Africa,Southern Africa,66.95,10799.74,47342663,50.7
+South Africa,1995,Africa,Southern Africa,69.83,8364.25,31495959,43.7
+South Africa,2000,Africa,Southern Africa,72.08,10063.53,36690179,35.1
+South Africa,2005,Africa,Southern Africa,75.36,15217.39,47273442,30.5
+South Africa,2010,Africa,Southern Africa,79.08,10523.03,37941442,23.4
+South Africa,2015,Africa,Southern Africa,81.2,13404.03,59886752,16.7
+South Africa,2020,Africa,Southern Africa,84.31,13495.7,65365744,9.6
+Australia,1950,Oceania,Australia and New Zealand,69.07,12400.0,8200000,24.0
+Australia,1955,Oceania,Australia and New Zealand,69.65,16362.93,10773960,22.2
+Australia,1960,Oceania,Australia and New Zealand,71.18,21251.18,10898290,20.6
+Australia,1965,Oceania,Australia and New Zealand,71.58,22510.46,12089842,20.7
+Australia,1970,Oceania,Australia and New Zealand,74.02,27451.11,12438576,18.8
+Australia,1975,Oceania,Australia and New Zealand,74.3,28541.24,19949299,16.5
+Australia,1980,Oceania,Australia and New Zealand,75.32,38449.56,22734889,16.0
+Australia,1985,Oceania,Australia and New Zealand,76.6,36868.82,21121489,11.8
+Australia,1990,Oceania,Australia and New Zealand,76.79,38622.07,23531819,11.0
+Australia,1995,Oceania,Australia and New Zealand,78.85,48167.51,20835275,9.5
+Australia,2000,Oceania,Australia and New Zealand,79.84,39751.63,33894054,9.7
+Australia,2005,Oceania,Australia and New Zealand,81.45,42878.48,26107823,5.8
+Australia,2010,Oceania,Australia and New Zealand,82.29,43289.54,39581317,4.2
+Australia,2015,Oceania,Australia and New Zealand,82.92,55077.96,29378655,2.7
+Australia,2020,Oceania,Australia and New Zealand,84.78,61974.29,28720737,2.1
+Canada,1950,Americas,Northern America,69.29,13100.0,13700000,27.2
+Canada,1955,Americas,Northern America,70.11,17167.33,16367105,24.4
+Canada,1960,Americas,Northern America,70.72,18396.89,22384757,24.8
+Canada,1965,Americas,Northern America,71.57,22034.93,20153039,21.3
+Canada,1970,Americas,Northern America,72.99,29981.86,23999880,21.3
+Canada,1975,Americas,Northern America,73.55,26137.05,33209853,16.9
+Canada,1980,Americas,Northern America,74.87,29523.22,39777968,17.8
+Canada,1985,Americas,Northern America,75.93,39249.75,38187889,13.7
+Canada,1990,Americas,Northern America,77.86,48839.94,47801259,11.6
+Canada,1995,Americas,Northern America,78.29,42506.75,46328375,10.3
+Canada,2000,Americas,Northern America,79.8,57033.07,47513862,10.6
+Canada,2005,Americas,Northern America,80.02,43722.13,39075058,8.6
+Canada,2010,Americas,Northern America,81.52,50827.59,58749879,5.2
+Canada,2015,Americas,Northern America,83.69,60109.74,48594370,3.2
+Canada,2020,Americas,Northern America,83.83,63835.17,51857465,3.1
+France,1950,Europe,Western Europe,66.7,9200.0,41800000,44.5
+France,1955,Europe,Western Europe,67.67,11183.99,48108863,42.2
+France,1960,Europe,Western Europe,68.86,13564.26,62962152,40.4
+France,1965,Europe,Western Europe,70.9,18955.07,63259923,35.6
+France,1970,Europe,Western Europe,71.39,19149.1,71899984,34.6
+France,1975,Europe,Western Europe,72.13,24994.12,73796116,29.5
+France,1980,Europe,Western Europe,74.48,26258.89,121949461,28.4
+France,1985,Europe,Western Europe,74.99,25558.91,99315561,25.2
+France,1990,Europe,Western Europe,76.93,22665.87,111180070,22.6
+France,1995,Europe,Western Europe,78.1,35835.01,104150387,19.7
+France,2000,Europe,Western Europe,78.79,35527.66,96611274,16.6
+France,2005,Europe,Western Europe,80.4,30392.44,140076029,13.0
+France,2010,Europe,Western Europe,81.46,48385.7,129148913,9.7
+France,2015,Europe,Western Europe,83.43,36081.2,187178048,7.2
+France,2020,Europe,Western Europe,83.35,36783.51,126058836,2.4
+Italy,1950,Europe,Southern Europe,65.27,7100.0,47100000,62.2
+Italy,1955,Europe,Southern Europe,66.88,8464.09,56566866,59.3
+Italy,1960,Europe,Southern Europe,69.08,11275.72,61412218,54.0
+Italy,1965,Europe,Southern Europe,69.83,12645.89,74037055,51.1
+Italy,1970,Europe,Southern Europe,71.38,13691.72,90420444,45.1
+Italy,1975,Europe,Southern Europe,71.78,14197.24,93145260,42.1
+Italy,1980,Europe,Southern Europe,74.18,16507.68,102086563,38.4
+Italy,1985,Europe,Southern Europe,74.16,19748.1,108489928,32.3
+Italy,1990,Europe,Southern Europe,75.69,18536.16,113892742,28.8
+Italy,1995,Europe,Southern Europe,77.37,23591.39,141005608,24.4
+Italy,2000,Europe,Southern Europe,78.65,22744.46,155377499,20.5
+Italy,2005,Europe,Southern Europe,80.49,31709.33,122392343,17.9
+Italy,2010,Europe,Southern Europe,81.99,22561.84,140564905,14.1
+Italy,2015,Europe,Southern Europe,82.83,25159.93,187650746,9.0
+Italy,2020,Europe,Southern Europe,84.02,35382.78,187979647,5.6
+South Korea,1950,Asia,Eastern Asia,46.84,850.0,19200000,138.2
+South Korea,1955,Asia,Eastern Asia,49.35,1173.72,22126498,128.5
+South Korea,1960,Asia,Eastern Asia,52.67,1966.14,30866135,119.6
+South Korea,1965,Asia,Eastern Asia,55.14,1962.49,26715762,111.1
+South Korea,1970,Asia,Eastern Asia,57.2,2438.01,41917545,101.0
+South Korea,1975,Asia,Eastern Asia,60.61,3137.98,39579815,94.0
+South Korea,1980,Asia,Eastern Asia,63.7,4579.98,49647628,84.8
+South Korea,1985,Asia,Eastern Asia,66.02,2739.89,61894125,74.8
+South Korea,1990,Asia,Eastern Asia,68.93,4276.01,41035603,66.5
+South Korea,1995,Asia,Eastern Asia,71.49,5742.18,61493038,56.2
+South Korea,2000,Asia,Eastern Asia,73.17,5670.41,77571841,46.8
+South Korea,2005,Asia,Eastern Asia,75.31,8626.89,75928223,36.9
+South Korea,2010,Asia,Eastern Asia,78.16,4035.64,89385173,29.9
+South Korea,2015,Asia,Eastern Asia,81.54,7388.3,64021271,20.1
+South Korea,2020,Asia,Eastern Asia,84.61,9755.17,81167782,10.4
+Indonesia,1950,Asia,South-Eastern Asia,37.54,780.0,69500000,183.2
+Indonesia,1955,Asia,South-Eastern Asia,40.14,1152.11,84824661,171.3
+Indonesia,1960,Asia,South-Eastern Asia,44.73,2031.75,111397834,158.5
+Indonesia,1965,Asia,South-Eastern Asia,47.4,1807.57,97678036,146.8
+Indonesia,1970,Asia,South-Eastern Asia,50.1,2984.47,134101735,135.6
+Indonesia,1975,Asia,South-Eastern Asia,53.91,3382.48,151075276,121.3
+Indonesia,1980,Asia,South-Eastern Asia,57.7,3836.09,144244747,110.1
+Indonesia,1985,Asia,South-Eastern Asia,60.68,5073.43,185291551,97.5
+Indonesia,1990,Asia,South-Eastern Asia,63.39,3899.22,244632447,85.5
+Indonesia,1995,Asia,South-Eastern Asia,66.73,2932.6,240789066,74.4
+Indonesia,2000,Asia,South-Eastern Asia,70.52,6434.63,263771679,62.3
+Indonesia,2005,Asia,South-Eastern Asia,74.74,7554.78,231242548,50.5
+Indonesia,2010,Asia,South-Eastern Asia,76.72,8595.26,224282255,38.4
+Indonesia,2015,Asia,South-Eastern Asia,81.2,7280.99,205573362,25.0
+Indonesia,2020,Asia,South-Eastern Asia,83.42,4258.05,377486881,15.0
+Mexico,1950,Americas,Central America,51.02,2800.0,27900000,122.3
+Mexico,1955,Americas,Central America,52.94,3440.63,32928198,114.4
+Mexico,1960,Americas,Central America,55.53,4003.75,42952627,105.7
+Mexico,1965,Americas,Central America,58.05,5351.36,51037978,98.2
+Mexico,1970,Americas,Central America,60.88,5630.15,50836635,90.3
+Mexico,1975,Americas,Central America,62.5,5961.33,67194402,81.1
+Mexico,1980,Americas,Central America,65.18,6817.75,62463043,75.2
+Mexico,1985,Americas,Central America,67.56,7721.83,59159443,66.0
+Mexico,1990,Americas,Central America,69.87,10539.05,83508894,58.9
+Mexico,1995,Americas,Central America,72.07,10068.79,70625501,50.1
+Mexico,2000,Americas,Central America,73.69,9128.45,104024783,42.5
+Mexico,2005,Americas,Central America,76.67,9496.47,110665962,33.6
+Mexico,2010,Americas,Central America,80.0,10967.41,131004753,24.7
+Mexico,2015,Americas,Central America,81.06,15657.52,124149666,18.2
+Mexico,2020,Americas,Central America,83.34,13174.58,115752847,10.2
+Egypt,1950,Africa,Northern Africa,40.52,1100.0,21200000,194.0
+Egypt,1955,Africa,Northern Africa,45.05,1379.64,27365518,181.2
+Egypt,1960,Africa,Northern Africa,48.03,1723.25,29289953,170.0
+Egypt,1965,Africa,Northern Africa,49.86,1987.1,32864082,156.2
+Egypt,1970,Africa,Northern Africa,54.1,2000.09,36961215,143.5
+Egypt,1975,Africa,Northern Africa,57.02,2497.66,38687202,132.0
+Egypt,1980,Africa,Northern Africa,59.86,2856.47,62079745,117.2
+Egypt,1985,Africa,Northern Africa,62.38,3640.37,63183353,104.0
+Egypt,1990,Africa,Northern Africa,65.26,4223.4,68505184,93.8
+Egypt,1995,Africa,Northern Africa,68.95,3917.49,56970583,79.3
+Egypt,2000,Africa,Northern Africa,71.99,3981.93,65713950,66.2
+Egypt,2005,Africa,Northern Africa,74.1,3796.55,60429061,53.4
+Egypt,2010,Africa,Northern Africa,77.75,4416.45,78509206,41.0
+Egypt,2015,Africa,Northern Africa,81.18,4058.11,79036915,29.1
+Egypt,2020,Africa,Northern Africa,83.68,6228.85,114716737,16.5
+Kenya,1950,Africa,Eastern Africa,42.24,720.0,6100000,143.2
+Kenya,1955,Africa,Eastern Africa,44.84,949.38,7425596,133.7
+Kenya,1960,Africa,Eastern Africa,47.71,1053.31,7784929,124.7
+Kenya,1965,Africa,Eastern Africa,50.52,1464.3,9368364,115.0
+Kenya,1970,Africa,Eastern Africa,54.66,1730.17,13702566,105.7
+Kenya,1975,Africa,Eastern Africa,56.94,1584.12,12742218,94.9
+Kenya,1980,Africa,Eastern Africa,60.36,2142.1,13063404,85.1
+Kenya,1985,Africa,Eastern Africa,62.85,2172.16,12866377,76.8
+Kenya,1990,Africa,Eastern Africa,65.96,1864.0,16854335,66.8
+Kenya,1995,Africa,Eastern Africa,68.92,2485.51,16170236,58.2
+Kenya,2000,Africa,Eastern Africa,72.77,3083.32,19459802,49.6
+Kenya,2005,Africa,Eastern Africa,74.24,2138.61,20056593,39.0
+Kenya,2010,Africa,Eastern Africa,77.82,2284.3,26017787,29.5
+Kenya,2015,Africa,Eastern Africa,80.47,3077.22,29715199,21.5
+Kenya,2020,Africa,Eastern Africa,84.57,3060.24,27168431,10.6
+Argentina,1950,Americas,South America,62.28,6500.0,17100000,67.3
+Argentina,1955,Americas,South America,63.24,8799.04,21069539,62.2
+Argentina,1960,Americas,South America,65.65,9900.04,23459772,58.2
+Argentina,1965,Americas,South America,67.48,11116.69,33572617,54.1
+Argentina,1970,Americas,South America,69.1,15218.13,29674282,49.4
+Argentina,1975,Americas,South America,70.39,15184.68,30651187,43.9
+Argentina,1980,Americas,South America,71.95,16099.1,30597980,40.3
+Argentina,1985,Americas,South America,73.59,22411.1,34519796,35.5
+Argentina,1990,Americas,South America,74.35,16254.85,44806305,30.9
+Argentina,1995,Americas,South America,76.2,22577.73,54384245,27.3
+Argentina,2000,Americas,South America,78.11,21300.74,67954079,23.4
+Argentina,2005,Americas,South America,79.35,23042.08,76788201,17.2
+Argentina,2010,Americas,South America,81.13,26913.12,43760339,14.5
+Argentina,2015,Americas,South America,82.06,32289.23,85348233,9.0
+Argentina,2020,Americas,South America,83.64,24974.25,74117986,6.7
+Sweden,1950,Europe,Northern Europe,71.81,12800.0,7000000,20.3
+Sweden,1955,Europe,Northern Europe,72.89,17190.64,8429777,20.9
+Sweden,1960,Europe,Northern Europe,72.4,19244.82,10192401,18.6
+Sweden,1965,Europe,Northern Europe,73.83,25727.59,13211820,18.1
+Sweden,1970,Europe,Northern Europe,75.01,24607.9,14805222,15.6
+Sweden,1975,Europe,Northern Europe,75.55,32319.48,11712365,14.2
+Sweden,1980,Europe,Northern Europe,76.98,37374.89,19397476,12.7
+Sweden,1985,Europe,Northern Europe,77.54,37382.19,17354812,10.0
+Sweden,1990,Europe,Northern Europe,78.8,46687.49,21165790,8.6
+Sweden,1995,Europe,Northern Europe,79.31,45351.62,18019075,8.1
+Sweden,2000,Europe,Northern Europe,80.7,44471.47,16560721,7.4
+Sweden,2005,Europe,Northern Europe,80.69,50073.38,23334720,5.4
+Sweden,2010,Europe,Northern Europe,82.79,66269.07,18002308,5.7
+Sweden,2015,Europe,Northern Europe,82.69,72036.6,22384081,3.6
+Sweden,2020,Europe,Northern Europe,84.59,47497.69,21650947,2.1
+Russia,1950,Europe,Eastern Europe,61.13,4500.0,102700000,83.6
+Russia,1955,Europe,Eastern Europe,62.01,5952.76,121022252,80.5
+Russia,1960,Europe,Eastern Europe,63.26,7323.16,160149688,73.3
+Russia,1965,Europe,Eastern Europe,65.04,7397.49,189255197,67.4
+Russia,1970,Europe,Eastern Europe,66.61,7986.21,184958741,62.3
+Russia,1975,Europe,Eastern Europe,69.45,10533.78,218128638,57.4
+Russia,1980,Europe,Eastern Europe,70.87,12922.8,211428388,52.3
+Russia,1985,Europe,Eastern Europe,72.16,15070.56,218502704,46.2
+Russia,1990,Europe,Eastern Europe,74.47,15834.3,269545713,40.9
+Russia,1995,Europe,Eastern Europe,76.33,18653.96,387401243,35.9
+Russia,2000,Europe,Eastern Europe,76.72,17647.42,411220215,29.1
+Russia,2005,Europe,Eastern Europe,79.2,20906.89,438063105,23.2
+Russia,2010,Europe,Eastern Europe,80.89,17198.3,320560738,16.8
+Russia,2015,Europe,Eastern Europe,82.98,15685.87,419812091,13.0
+Russia,2020,Europe,Eastern Europe,84.19,23547.54,289609400,7.1
+Saudi Arabia,1950,Asia,Western Asia,41.76,3900.0,3100000,160.2
+Saudi Arabia,1955,Asia,Western Asia,44.25,6112.24,3935580,149.3
+Saudi Arabia,1960,Asia,Western Asia,47.84,9334.98,4031246,139.7
+Saudi Arabia,1965,Asia,Western Asia,50.83,8254.97,4474924,128.5
+Saudi Arabia,1970,Asia,Western Asia,54.13,11412.7,5770752,117.0
+Saudi Arabia,1975,Asia,Western Asia,57.2,10505.23,7729286,106.1
+Saudi Arabia,1980,Asia,Western Asia,59.88,23475.85,5944759,97.0
+Saudi Arabia,1985,Asia,Western Asia,62.17,18104.14,6480250,87.9
+Saudi Arabia,1990,Asia,Western Asia,65.29,13402.51,9607102,74.7
+Saudi Arabia,1995,Asia,Western Asia,68.99,27294.17,8852906,65.7
+Saudi Arabia,2000,Asia,Western Asia,72.74,19909.91,12228394,55.4
+Saudi Arabia,2005,Asia,Western Asia,75.78,20158.78,11294508,44.4
+Saudi Arabia,2010,Asia,Western Asia,78.67,41518.88,13051472,35.2
+Saudi Arabia,2015,Asia,Western Asia,80.69,34983.47,12690549,22.5
+Saudi Arabia,2020,Asia,Western Asia,83.33,41763.45,14182316,11.8
+Turkey,1950,Asia,Western Asia,44.29,2400.0,21400000,165.0
+Turkey,1955,Asia,Western Asia,47.01,3757.33,24943849,153.5
+Turkey,1960,Asia,Western Asia,49.91,6207.61,33127373,144.7
+Turkey,1965,Asia,Western Asia,51.66,7302.04,32255478,131.3
+Turkey,1970,Asia,Western Asia,55.33,5935.31,35228969,122.6
+Turkey,1975,Asia,Western Asia,57.86,8067.17,37778335,110.1
+Turkey,1980,Asia,Western Asia,61.14,10238.02,54999446,98.6
+Turkey,1985,Asia,Western Asia,63.77,9279.82,46650748,89.3
+Turkey,1990,Asia,Western Asia,67.07,17471.31,54666096,79.2
+Turkey,1995,Asia,Western Asia,69.48,18146.97,47425923,68.0
+Turkey,2000,Asia,Western Asia,71.9,22482.05,64839679,55.1
+Turkey,2005,Asia,Western Asia,74.72,17836.17,81704864,45.1
+Turkey,2010,Asia,Western Asia,77.99,23020.3,97641806,35.0
+Turkey,2015,Asia,Western Asia,80.77,13833.53,67545550,24.2
+Turkey,2020,Asia,Western Asia,84.47,19915.52,108504469,13.7
+Vietnam,1950,Asia,South-Eastern Asia,40.07,520.0,24800000,110.8
+Vietnam,1955,Asia,South-Eastern Asia,43.11,758.36,29122999,102.1
+Vietnam,1960,Asia,South-Eastern Asia,46.79,1157.11,31701634,97.0
+Vietnam,1965,Asia,South-Eastern Asia,49.65,1234.27,39934924,89.6
+Vietnam,1970,Asia,South-Eastern Asia,52.74,1796.42,46464239,80.0
+Vietnam,1975,Asia,South-Eastern Asia,55.91,1178.79,43013987,72.5
+Vietnam,1980,Asia,South-Eastern Asia,58.54,2093.48,45741343,65.2
+Vietnam,1985,Asia,South-Eastern Asia,62.42,2428.86,58689108,60.2
+Vietnam,1990,Asia,South-Eastern Asia,64.76,3069.25,74421777,51.8
+Vietnam,1995,Asia,South-Eastern Asia,68.89,2659.14,90754550,44.5
+Vietnam,2000,Asia,South-Eastern Asia,71.95,3094.14,58314265,38.6
+Vietnam,2005,Asia,South-Eastern Asia,75.0,4913.4,69582587,30.1
+Vietnam,2010,Asia,South-Eastern Asia,77.98,3453.64,93053920,22.7
+Vietnam,2015,Asia,South-Eastern Asia,81.24,5443.26,110875933,16.0
+Vietnam,2020,Asia,South-Eastern Asia,83.48,4539.07,86018353,9.3
+Pakistan,1950,Asia,Southern Asia,36.85,640.0,37500000,158.7
+Pakistan,1955,Asia,Southern Asia,39.66,1014.87,44475970,149.4
+Pakistan,1960,Asia,Southern Asia,44.48,968.68,53002115,138.2
+Pakistan,1965,Asia,Southern Asia,47.79,1615.09,71426522,128.9
+Pakistan,1970,Asia,Southern Asia,50.63,2164.03,60962103,116.5
+Pakistan,1975,Asia,Southern Asia,54.38,1710.6,85650827,108.6
+Pakistan,1980,Asia,Southern Asia,56.78,3297.89,107959770,96.0
+Pakistan,1985,Asia,Southern Asia,60.07,3973.09,102886604,87.0
+Pakistan,1990,Asia,Southern Asia,64.28,4997.64,79629954,74.8
+Pakistan,1995,Asia,Southern Asia,67.17,3828.85,108995255,65.5
+Pakistan,2000,Asia,Southern Asia,70.64,3307.44,149585430,53.6
+Pakistan,2005,Asia,Southern Asia,73.89,5186.45,168417464,44.2
+Pakistan,2010,Asia,Southern Asia,76.56,4012.72,163589807,33.2
+Pakistan,2015,Asia,Southern Asia,81.43,5757.19,114142588,23.7
+Pakistan,2020,Asia,Southern Asia,84.59,7078.79,150955232,14.2

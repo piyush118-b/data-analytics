@@ -1,0 +1,202 @@
+[
+  {
+    "country": "United States",
+    "region": "Americas",
+    "urban_population_pct": 67.3,
+    "adult_literacy_rate_pct": 69.9,
+    "health_expenditure_gdp_pct": 16.9,
+    "physicians_per_1000": 1.46
+  },
+  {
+    "country": "China",
+    "region": "Asia",
+    "urban_population_pct": 89.5,
+    "adult_literacy_rate_pct": 95.3,
+    "health_expenditure_gdp_pct": 4.7,
+    "physicians_per_1000": 1.39
+  },
+  {
+    "country": "India",
+    "region": "Asia",
+    "urban_population_pct": 48.9,
+    "adult_literacy_rate_pct": 84.0,
+    "health_expenditure_gdp_pct": 17.0,
+    "physicians_per_1000": 3.33
+  },
+  {
+    "country": "Japan",
+    "region": "Asia",
+    "urban_population_pct": 48.7,
+    "adult_literacy_rate_pct": 70.0,
+    "health_expenditure_gdp_pct": 12.6,
+    "physicians_per_1000": 4.35
+  },
+  {
+    "country": "Germany",
+    "region": "Europe",
+    "urban_population_pct": 47.2,
+    "adult_literacy_rate_pct": 84.4,
+    "health_expenditure_gdp_pct": 4.9,
+    "physicians_per_1000": 3.84
+  },
+  {
+    "country": "United Kingdom",
+    "region": "Europe",
+    "urban_population_pct": 74.0,
+    "adult_literacy_rate_pct": 74.0,
+    "health_expenditure_gdp_pct": 14.3,
+    "physicians_per_1000": 4.48
+  },
+  {
+    "country": "Brazil",
+    "region": "Americas",
+    "urban_population_pct": 47.4,
+    "adult_literacy_rate_pct": 91.8,
+    "health_expenditure_gdp_pct": 13.3,
+    "physicians_per_1000": 3.49
+  },
+  {
+    "country": "Nigeria",
+    "region": "Africa",
+    "urban_population_pct": 54.1,
+    "adult_literacy_rate_pct": 99.6,
+    "health_expenditure_gdp_pct": 5.2,
+    "physicians_per_1000": 3.44
+  },
+  {
+    "country": "South Africa",
+    "region": "Africa",
+    "urban_population_pct": 80.3,
+    "adult_literacy_rate_pct": 89.4,
+    "health_expenditure_gdp_pct": 10.5,
+    "physicians_per_1000": 4.48
+  },
+  {
+    "country": "Australia",
+    "region": "Oceania",
+    "urban_population_pct": 52.6,
+    "adult_literacy_rate_pct": 87.8,
+    "health_expenditure_gdp_pct": 7.4,
+    "physicians_per_1000": 2.8
+  },
+  {
+    "country": "Canada",
+    "region": "Americas",
+    "urban_population_pct": 67.7,
+    "adult_literacy_rate_pct": 81.8,
+    "health_expenditure_gdp_pct": 15.5,
+    "physicians_per_1000": 0.77
+  },
+  {
+    "country": "France",
+    "region": "Europe",
+    "urban_population_pct": 84.6,
+    "adult_literacy_rate_pct": 69.6,
+    "health_expenditure_gdp_pct": 9.6,
+    "physicians_per_1000": 4.64
+  },
+  {
+    "country": "Italy",
+    "region": "Europe",
+    "urban_population_pct": 69.4,
+    "adult_literacy_rate_pct": 78.1,
+    "health_expenditure_gdp_pct": 13.6,
+    "physicians_per_1000": 2.12
+  },
+  {
+    "country": "South Korea",
+    "region": "Asia",
+    "urban_population_pct": 81.9,
+    "adult_literacy_rate_pct": 81.7,
+    "health_expenditure_gdp_pct": 4.7,
+    "physicians_per_1000": 3.06
+  },
+  {
+    "country": "Indonesia",
+    "region": "Asia",
+    "urban_population_pct": 72.8,
+    "adult_literacy_rate_pct": 76.7,
+    "health_expenditure_gdp_pct": 9.7,
+    "physicians_per_1000": 1.04
+  },
+  {
+    "country": "Mexico",
+    "region": "Americas",
+    "urban_population_pct": 62.9,
+    "adult_literacy_rate_pct": 78.3,
+    "health_expenditure_gdp_pct": 16.0,
+    "physicians_per_1000": 3.92
+  },
+  {
+    "country": "Egypt",
+    "region": "Africa",
+    "urban_population_pct": 61.4,
+    "adult_literacy_rate_pct": 80.2,
+    "health_expenditure_gdp_pct": 8.4,
+    "physicians_per_1000": 2.09
+  },
+  {
+    "country": "Kenya",
+    "region": "Africa",
+    "urban_population_pct": 77.6,
+    "adult_literacy_rate_pct": 91.2,
+    "health_expenditure_gdp_pct": 15.1,
+    "physicians_per_1000": 0.89
+  },
+  {
+    "country": "Argentina",
+    "region": "Americas",
+    "urban_population_pct": 79.7,
+    "adult_literacy_rate_pct": 95.8,
+    "health_expenditure_gdp_pct": 13.2,
+    "physicians_per_1000": 4.48
+  },
+  {
+    "country": "Sweden",
+    "region": "Europe",
+    "urban_population_pct": 86.5,
+    "adult_literacy_rate_pct": 65.8,
+    "health_expenditure_gdp_pct": 4.4,
+    "physicians_per_1000": 4.11
+  },
+  {
+    "country": "Russia",
+    "region": "Europe",
+    "urban_population_pct": 53.4,
+    "adult_literacy_rate_pct": 82.3,
+    "health_expenditure_gdp_pct": 12.8,
+    "physicians_per_1000": 1.22
+  },
+  {
+    "country": "Saudi Arabia",
+    "region": "Asia",
+    "urban_population_pct": 65.8,
+    "adult_literacy_rate_pct": 94.4,
+    "health_expenditure_gdp_pct": 14.9,
+    "physicians_per_1000": 2.06
+  },
+  {
+    "country": "Turkey",
+    "region": "Asia",
+    "urban_population_pct": 85.9,
+    "adult_literacy_rate_pct": 82.9,
+    "health_expenditure_gdp_pct": 16.8,
+    "physicians_per_1000": 3.15
+  },
+  {
+    "country": "Vietnam",
+    "region": "Asia",
+    "urban_population_pct": 83.8,
+    "adult_literacy_rate_pct": 75.0,
+    "health_expenditure_gdp_pct": 15.5,
+    "physicians_per_1000": 3.05
+  },
+  {
+    "country": "Pakistan",
+    "region": "Asia",
+    "urban_population_pct": 69.6,
+    "adult_literacy_rate_pct": 90.6,
+    "health_expenditure_gdp_pct": 10.2,
+    "physicians_per_1000": 1.94
+  }
+]
