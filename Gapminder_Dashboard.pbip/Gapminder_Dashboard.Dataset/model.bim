@@ -1,0 +1,96 @@
+{
+  "name": "Gapminder_Dashboard",
+  "compatibilityLevel": 1550,
+  "model": {
+    "culture": "en-US",
+    "dataAccessOptions": {
+      "legacyRedirects": true,
+      "returnErrorValuesAsNull": true
+    },
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "tables": [
+      {
+        "name": "Gapminder_1950_2024",
+        "columns": [
+          {
+            "name": "Country",
+            "dataType": "string",
+            "sourceColumn": "Country"
+          },
+          {
+            "name": "Year",
+            "dataType": "int64",
+            "sourceColumn": "Year"
+          },
+          {
+            "name": "Region",
+            "dataType": "string",
+            "sourceColumn": "Region"
+          },
+          {
+            "name": "SubRegion",
+            "dataType": "string",
+            "sourceColumn": "SubRegion"
+          },
+          {
+            "name": "LifeExpectancy",
+            "dataType": "double",
+            "sourceColumn": "LifeExpectancy"
+          },
+          {
+            "name": "GDPperCapita",
+            "dataType": "double",
+            "sourceColumn": "GDPperCapita"
+          },
+          {
+            "name": "TotalPopulation",
+            "dataType": "int64",
+            "sourceColumn": "TotalPopulation"
+          },
+          {
+            "name": "InfantMortalityRate",
+            "dataType": "double",
+            "sourceColumn": "InfantMortalityRate"
+          }
+        ],
+        "partitions": [
+          {
+            "name": "Gapminder_1950_2024-Partition",
+            "mode": "import",
+            "source": {
+              "type": "m",
+              "expression": [
+                "let\n",
+                "    Source = Csv.Document(File.Contents(\"/Users/piyush_18/Documents/antigravity/clever-lovelace/data/Gapminder_1950_2024.csv\"),[Delimiter=\",\", Columns=8, Encoding=65001, QuoteStyle=QuoteStyle.None]),\n",
+                "    #\"Promoted Headers\" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),\n",
+                "    #\"Changed Type\" = Table.TransformColumnTypes(#\"Promoted Headers\",{\n",
+                "        {\"Country\", type text}, {\"Year\", Int64.Type}, {\"Region\", type text}, {\"SubRegion\", type text},\n",
+                "        {\"LifeExpectancy\", type number}, {\"GDPperCapita\", type number}, {\"TotalPopulation\", Int64.Type}, {\"InfantMortalityRate\", type number}\n",
+                "    })\n",
+                "in\n",
+                "    #\"Changed Type\""
+              ]
+            }
+          }
+        ],
+        "measures": [
+          {
+            "name": "Avg Life Expectancy",
+            "expression": "AVERAGE(Gapminder_1950_2024[LifeExpectancy])",
+            "formatString": "0.0"
+          },
+          {
+            "name": "Total World Population",
+            "expression": "SUM(Gapminder_1950_2024[TotalPopulation])",
+            "formatString": "#,##0"
+          },
+          {
+            "name": "Weighted GDP per Capita",
+            "expression": "DIVIDE(SUMX(Gapminder_1950_2024, Gapminder_1950_2024[GDPperCapita] * Gapminder_1950_2024[TotalPopulation]), SUM(Gapminder_1950_2024[TotalPopulation]), 0)",
+            "formatString": "$#,##0"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "version": "5.50",
+  "themeCollection": {
+    "baseTheme": {
+      "name": "Executive Teal",
+      "version": "5.50"
+    }
+  },
+  "sections": [
+    {
+      "name": "ReportSection_GlobalOverview",
+      "displayName": "Global Overview",
+      "width": 1280,
+      "height": 720,
+      "visualContainers": [
+        {
+          "x": 15,
+          "y": 15,
+          "width": 1250,
+          "height": 55,
+          "z": 0,
+          "config": "{\"name\": \"HeaderBanner\", \"singleVisual\": {\"visualType\": \"shape\", \"objects\": {\"fill\": [{\"properties\": {\"fillColor\": {\"solid\": {\"color\": \"#005F73\"}}}}], \"text\": [{\"properties\": {\"text\": {\"expr\": {\"literal\": {\"str\": \"Gapminder Global Development Overview\"}}}, \"fontSize\": 18, \"fontColor\": {\"solid\": {\"color\": \"#FFFFFF\"}}}}]}}}"
+        },
+        {
+          "x": 15,
+          "y": 80,
+          "width": 400,
+          "height": 100,
+          "z": 1,
+          "config": "{\"name\": \"Card_AvgLifeExp\", \"singleVisual\": {\"visualType\": \"card\", \"projections\": {\"Values\": [{\"queryRef\": \"Gapminder_1950_2024.Avg Life Expectancy\"}]}}}"
+        },
+        {
+          "x": 430,
+          "y": 80,
+          "width": 420,
+          "height": 100,
+          "z": 2,
+          "config": "{\"name\": \"Card_TotalPop\", \"singleVisual\": {\"visualType\": \"card\", \"projections\": {\"Values\": [{\"queryRef\": \"Gapminder_1950_2024.Total World Population\"}]}}}"
+        },
+        {
+          "x": 860,
+          "y": 80,
+          "width": 405,
+          "height": 100,
+          "z": 3,
+          "config": "{\"name\": \"Card_WeightedGDP\", \"singleVisual\": {\"visualType\": \"card\", \"projections\": {\"Values\": [{\"queryRef\": \"Gapminder_1950_2024.Weighted GDP per Capita\"}]}}}"
+        },
+        {
+          "x": 15,
+          "y": 195,
+          "width": 610,
+          "height": 250,
+          "z": 4,
+          "config": "{\"name\": \"Map_Longevity\", \"singleVisual\": {\"visualType\": \"filledMap\", \"projections\": {\"Location\": [{\"queryRef\": \"Gapminder_1950_2024.Country\"}], \"Color\": [{\"queryRef\": \"Gapminder_1950_2024.Avg Life Expectancy\"}]}}}"
+        },
+        {
+          "x": 640,
+          "y": 195,
+          "width": 625,
+          "height": 250,
+          "z": 5,
+          "config": "{\"name\": \"Bar_Top10Longevity\", \"singleVisual\": {\"visualType\": \"barChart\", \"projections\": {\"Category\": [{\"queryRef\": \"Gapminder_1950_2024.Country\"}], \"Y\": [{\"queryRef\": \"Gapminder_1950_2024.Avg Life Expectancy\"}]}}}"
+        },
+        {
+          "x": 15,
+          "y": 455,
+          "width": 610,
+          "height": 245,
+          "z": 6,
+          "config": "{\"name\": \"Line_Trend\", \"singleVisual\": {\"visualType\": \"lineChart\", \"projections\": {\"Category\": [{\"queryRef\": \"Gapminder_1950_2024.Year\"}], \"Y\": [{\"queryRef\": \"Gapminder_1950_2024.Avg Life Expectancy\"}]}}}"
+        },
+        {
+          "x": 640,
+          "y": 455,
+          "width": 625,
+          "height": 245,
+          "z": 7,
+          "config": "{\"name\": \"Table_ContinentalBreakdown\", \"singleVisual\": {\"visualType\": \"table\", \"projections\": {\"Values\": [{\"queryRef\": \"Gapminder_1950_2024.Region\"}, {\"queryRef\": \"Gapminder_1950_2024.Avg Life Expectancy\"}, {\"queryRef\": \"Gapminder_1950_2024.Total World Population\"}]}}}"
+        }
+      ]
+    },
+    {
+      "name": "ReportSection_ScatterAnalytics",
+      "displayName": "Scatter Analytics (Play Axis)",
+      "width": 1280,
+      "height": 720,
+      "visualContainers": [
+        {
+          "x": 15,
+          "y": 15,
+          "width": 1250,
+          "height": 55,
+          "z": 0,
+          "config": "{\"name\": \"HeaderBanner2\", \"singleVisual\": {\"visualType\": \"shape\", \"objects\": {\"fill\": [{\"properties\": {\"fillColor\": {\"solid\": {\"color\": \"#005F73\"}}}}], \"text\": [{\"properties\": {\"text\": {\"expr\": {\"literal\": {\"str\": \"Dynamic Scatter Analytics & Income Breakdown\"}}}, \"fontSize\": 18, \"fontColor\": {\"solid\": {\"color\": \"#FFFFFF\"}}}}]}}}"
+        },
+        {
+          "x": 15,
+          "y": 80,
+          "width": 850,
+          "height": 400,
+          "z": 1,
+          "config": "{\"name\": \"Scatter_IconicGapminder\", \"singleVisual\": {\"visualType\": \"scatterChart\", \"projections\": {\"X\": [{\"queryRef\": \"Gapminder_1950_2024.GDPperCapita\"}], \"Y\": [{\"queryRef\": \"Gapminder_1950_2024.LifeExpectancy\"}], \"Size\": [{\"queryRef\": \"Gapminder_1950_2024.TotalPopulation\"}], \"Series\": [{\"queryRef\": \"Gapminder_1950_2024.Region\"}], \"PlayAxis\": [{\"queryRef\": \"Gapminder_1950_2024.Year\"}]}}}"
+        },
+        {
+          "x": 880,
+          "y": 80,
+          "width": 385,
+          "height": 400,
+          "z": 2,
+          "config": "{\"name\": \"Treemap_Population\", \"singleVisual\": {\"visualType\": \"treemap\", \"projections\": {\"Group\": [{\"queryRef\": \"Gapminder_1950_2024.Region\"}], \"Values\": [{\"queryRef\": \"Gapminder_1950_2024.Total World Population\"}]}}}"
+        },
+        {
+          "x": 15,
+          "y": 490,
+          "width": 1250,
+          "height": 210,
+          "z": 3,
+          "config": "{\"name\": \"Waterfall_DecadalGains\", \"singleVisual\": {\"visualType\": \"waterfallChart\", \"projections\": {\"Category\": [{\"queryRef\": \"Gapminder_1950_2024.Year\"}], \"Y\": [{\"queryRef\": \"Gapminder_1950_2024.Avg Life Expectancy\"}]}}}"
+        }
+      ]
+    }
+  ]
+}
